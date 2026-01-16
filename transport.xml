@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<transports>
+    <transport>
+    <vehicle id="v1" type="private">
+        <name>Yaris</name>
+        <manufacturer>Toyota</manufacturer>
+        <maxSpeed unit="km/h">140</maxSpeed>
+        <color>Silver</color>
+    </vehicle>
+
+    <vehicle id="v2" type="public">
+        <name>City Bus Line 502</name>
+        <manufacturer>Solaris</manufacturer>
+        <maxSpeed unit="km/h">90</maxSpeed>
+        <color>Red</color>
+    </vehicle>
+
+    <vehicle id="v3" type="eco">
+        <name>Mountain Bike</name>
+        <manufacturer>Giant</manufacturer>
+        <maxSpeed unit="km/h">30</maxSpeed>
+        <color>Black</color>
+    </vehicle>
+</transport>
+
+
+
+
+</transports>

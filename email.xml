@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<email>
+    <from>jan.kowalski@przyklad.pl</from>
+    <to>anna.nowak@firma.pl</to>
+    <subject>Zaproszenie na spotkanie projektowe</subject>
+    <body>
+        Cześć Aniu,
+
+        Chciałbym potwierdzić termin naszego spotkania w sprawie nowej strony internetowej. 
+        Czy pasuje Ci najbliższy wtorek o godzinie 10:00 w sali konferencyjnej?
+
+        Pozdrawiam,
+        Jan Kowalski
+    </body>
+    <date>2023-10-27</date>
+</email>

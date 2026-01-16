@@ -1,0 +1,35 @@
+{
+  "ticketId": "EIC-20251207-KRK-WAW",
+  "carrier": "PKP Intercity",
+  "trainName": "EIC Tatry",
+  "issueDate": "2025-12-07T10:15:00",
+  "route": {
+    "from": "Kraków Główny",
+    "to": "Warszawa Centralna",
+    "departureTime": "2025-12-07T18:45:00",
+    "arrivalTime": "2025-12-07T21:12:00",
+    "distanceKm": 293
+  },
+  "passenger": {
+    "firstName": "Anna",
+    "lastName": "Nowak",
+    "hasDiscount": false
+  },
+  "seatDetails": {
+    "car": 3,
+    "seat": 65,
+    "class": 2,
+    "isWindowSeat": true,
+    "isQuietZone": true
+  },
+  "price": {
+    "amount": 169.00,
+    "currency": "PLN"
+  },
+  "servicesIncluded": [
+    "WiFi",
+    "Power socket",
+    "Beverage"
+  ],
+  "controlStatus": null
+}
